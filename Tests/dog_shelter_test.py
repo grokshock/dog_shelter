@@ -1,7 +1,7 @@
 import pytest
 from Dev.DogShelter import DogShelter
 
-pytestmark = [pytest.mark.regression, pytest.mark.debug]
+pytestmark = [pytest.mark.regression]
 
 
 @pytest.mark.smoke
